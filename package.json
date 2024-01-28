@@ -1,5 +1,5 @@
 {
-  "name": "ethereum-ens-network-map",
+  "name": "@optidomains/ethereum-ens-network-map",
   "version": "1.0.3",
   "description": "A simple map of ethereum networks to ENS registry addresses with Opti.domains support.",
   "main": "index.js",
