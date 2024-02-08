@@ -1,7 +1,7 @@
 {
   "name": "@optidomains/ethereum-ens-network-map",
-  "version": "1.0.4",
-  "description": "A simple map of ethereum networks to ENS registry addresses with Opti.domains support.",
+  "version": "2.0.0",
+  "description": "A simple map of ethereum networks to ENS registry addresses.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
